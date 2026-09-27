@@ -1,0 +1,5 @@
+ToolSet: 18.0 (local)@D:\my\DEVELOPER\VisualStudio
+Ninja: 1.13.2@D:\my\DEVELOPER\Clion\CLion 2026.2.1\bin\ninja\win\x64\ninja.exe
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=D:/my/DEVELOPER/Clion/CLion 2026.2.1/bin/ninja/win/x64/ninja.exe
