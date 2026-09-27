@@ -1,0 +1,27 @@
+# ===========================================================================
+#  DeepSeek 桌宠 配置示例
+#  把这个文件复制到 %LOCALAPPDATA%\DeepSeekPet\config.ini 也可以直接用
+#  程序内部也提供设置窗口（右键桌宠 → 设置…）
+# ===========================================================================
+
+# DeepSeek 开放平台的 API Key，用于查询余额（必填）
+# 获取地址：https://platform.deepseek.com/api_keys
+api_key=
+
+# 余额低于该数值（元）时，桌宠换成"顶锅哭哭"形象
+low_threshold=1.00
+
+# 自动刷新余额的间隔（秒），最小 30
+refresh_sec=300
+
+# 桌宠位置（屏幕坐标，-1 表示自动放在右下角）
+window_x=-1
+window_y=-1
+
+# 是否随 Windows 启动（1/0）
+auto_start=0
+
+# 自定义启动 DeepSeek Harness 的命令；留空则自动探测 dsh.exe / dsh.cmd
+# 例如：dsh_command=D:\tools\dsh\dsh.exe
+dsh_command=
+dsh_args=
