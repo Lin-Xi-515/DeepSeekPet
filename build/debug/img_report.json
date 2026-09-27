@@ -1,0 +1,33 @@
+{
+  "pet_normal.png": {
+    "out": "D:\\my\\C&C++\\C++\\Arithmetic\\DeepSeekPet\\assets\\pet_normal.png",
+    "size": [
+      354,
+      320
+    ],
+    "transparent_pct": 33.3,
+    "src": "img1_normal.webp"
+  },
+  "pet_low.png": {
+    "out": "D:\\my\\C&C++\\C++\\Arithmetic\\DeepSeekPet\\assets\\pet_low.png",
+    "size": [
+      320,
+      320
+    ],
+    "transparent_pct": 37.5,
+    "src": "img2_low.jpg",
+    "wall": [
+      195.0,
+      167.0,
+      148.0
+    ],
+    "floor": [
+      180.0,
+      137.0,
+      108.0
+    ]
+  },
+  "pet.ico": {
+    "out": "D:\\my\\C&C++\\C++\\Arithmetic\\DeepSeekPet\\assets\\pet.ico"
+  }
+}
