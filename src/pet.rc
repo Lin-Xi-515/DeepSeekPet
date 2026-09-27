@@ -1,0 +1,11 @@
+// DeepSeekPet 资源脚本
+
+#define IDI_PET         101
+#define IDR_PET_NORMAL  201
+#define IDR_PET_LOW     202
+
+IDI_PET         ICON    "..\\assets\\pet.ico"
+IDR_PET_NORMAL  PNG     "..\\assets\\pet_normal.png"
+IDR_PET_LOW     PNG     "..\\assets\\pet_low.png"
+
+1 RT_MANIFEST "pet.manifest"
